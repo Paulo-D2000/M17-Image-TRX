@@ -3,7 +3,9 @@ Transmitting one base64 encoded image with M17 and SDRAngel via RF
 
 *1 - Convert JPEG to Base64*
 
-The 120 x 120px JPEG ![image](PU4THZ_M17_JPG.jpg)
+The 120 x 120px JPEG
+
+![image](PU4THZ_M17_JPG.jpg)
 
 Was converted using [Base64 Guru Website](https://base64.guru/converter/encode/file ) and the output is:
 
