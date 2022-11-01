@@ -3,11 +3,11 @@ Transmitting one base64 encoded image with M17 and SDRAngel via RF
 
 *1 - Convert 4-BIT BMP to Base64 using*
 
-The 41 x 10px 4Bit Bitmap [download pu4thz_bmp.zip](https://github.com/Paulo-D2000/M17-Image-TRX/files/9914092/pu4thz_bmp.zip
+The 41 x 10px 4Bit Bitmap [pu4thz_bmp.zip](https://github.com/Paulo-D2000/M17-Image-TRX/files/9914126/pu4thz_bmp.zip)
 
 Preview:
 
-[image](https://user-images.githubusercontent.com/58897843/199344811-d042aa5f-44ee-498f-aa40-fdadb04a2a4a.png)
+![image](https://user-images.githubusercontent.com/58897843/199346525-de7fe254-273d-4332-a7a3-ac7487d85faa.png)
 
 Was converted using [Base64 Guru Website](https://base64.guru/converter/encode/file ) and the output is:
 
@@ -46,6 +46,6 @@ And it seems ok!
 
 ![image](https://user-images.githubusercontent.com/58897843/199346201-8df7ba20-bf67-43c6-802b-b0ddcc6b82d8.png)
 
-Downloaded file: [image.zip](https://github.com/Paulo-D2000/M17-Image-TRX/files/9914120/image.zip)
+Decoded file download: [image.zip](https://github.com/Paulo-D2000/M17-Image-TRX/files/9914120/image.zip)
 
 Thanks for reading :) 
