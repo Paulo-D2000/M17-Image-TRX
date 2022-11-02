@@ -53,7 +53,7 @@ N5ravdlJ5E36h/m7Jmnly0mh2iZu01Kof0Gkp81nr0oHBnsX1eDbihqOphTaS2LlbSChiUBSatIQf5OP
 
 *4 - Convert Base64 to BMP again*
 
-Used  ![Base64 Guru Website](https://base64.guru/converter/decode/file) to decode.
+Used  [Base64 Guru Website](https://base64.guru/converter/decode/file) to decode.
 
 Headers were removed and the data joined uing notepad++ steps below:
 
